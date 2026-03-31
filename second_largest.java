@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class secong_largest{
+class second_largest{
     public static void main(String[]args){
         Scanner scan = new Scanner(System.in);
         int[]arr = new int[5];
