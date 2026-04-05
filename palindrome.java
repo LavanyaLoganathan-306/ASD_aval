@@ -1,8 +1,6 @@
 import java.util.Scanner;
 public class palindrome {
     public static int palindrome(int n){
-
-        int original = n;
         int reverse = 0;
         int digit=0;
         while(n>0){
@@ -19,5 +17,6 @@ public class palindrome {
 
         int result = palindrome(n);
         System.out.println(result);
+        scan.close();
     }
 }

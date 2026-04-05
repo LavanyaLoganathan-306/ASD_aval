@@ -13,6 +13,7 @@ public class primenum {
         int n = scan.nextInt();
 boolean value = isprime(n);
 System.out.println(value);
+scan.close();
           }
     
 }

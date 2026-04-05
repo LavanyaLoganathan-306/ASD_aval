@@ -18,6 +18,7 @@ public class sum_digits {
             int n = scan .nextInt();
             int answer = Sumofdigits(n);
         System.out.println(answer);
+        scan.close();
 
     }
 }

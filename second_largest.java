@@ -19,5 +19,6 @@ class second_largest{
             }
         }
         System.out.println(secondMax);
+        scan.close();
     }
 }

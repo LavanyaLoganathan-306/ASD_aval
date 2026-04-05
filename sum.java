@@ -14,5 +14,6 @@ public class sum {
         int n = scan.nextInt();
         int result = findsum(n);
         System.out.println(result);
+        scan.close();
     }
 }

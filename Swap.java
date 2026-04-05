@@ -18,5 +18,6 @@ public class Swap {
         ArrayList<Integer> answer = swapnum(a,b);
 
         System.out.println(answer);
+        scan.close();
     }
 }

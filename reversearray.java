@@ -22,6 +22,7 @@ public class reversearray {
         }
         int[] result= reverse(arr);
         System.out.println(result[0]);
+        scan.close();
     }
     
 }

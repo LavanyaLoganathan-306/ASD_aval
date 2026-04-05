@@ -16,5 +16,6 @@ public class reverse {
         int n = scan .nextInt();
         int result = Reverse(n);
         System.out.println(result);
+        scan.close();
     }
 }

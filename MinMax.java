@@ -30,6 +30,7 @@ public class MinMax{
           ArrayList<Integer> answer = MinMax(arr);
 
           System.out.println(answer);
+          scan.close();
         }
         
 }
